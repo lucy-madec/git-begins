@@ -4,3 +4,5 @@ git add
 git commit -m "Message"
 git push
 Commande de pull : git pull
+Créer une branche : git branch "nom de la branche"
+Basculer d'une branche à l'autre : git checkout "nom de la branche"
