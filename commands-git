@@ -2,5 +2,5 @@ Cloner un repository : git clone URL
 Les 3 commandes de push :
 git add
 git commit -m "Message"
-git push
+git push origin "branch"
 Commande de pull : git pull
